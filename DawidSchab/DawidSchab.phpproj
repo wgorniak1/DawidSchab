@@ -79,6 +79,7 @@
     <Folder Include="lib\superfish\" />
     <Folder Include="lib\wow\" />
     <Folder Include="Properties\" />
+    <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="contactform\contactform.js" />
@@ -144,6 +145,8 @@
     <Content Include="lib\superfish\superfish.min.js" />
     <Content Include="lib\wow\wow.js" />
     <Content Include="lib\wow\wow.min.js" />
+    <None Include="Properties\PublishProfiles\WojtekGorniak - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\WojtekGorniak - Web Deploy.pubxml" />
     <Content Include="Readme.txt" />
   </ItemGroup>
 </Project>
