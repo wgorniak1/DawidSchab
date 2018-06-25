@@ -84,10 +84,12 @@
   <ItemGroup>
     <Content Include="contactform\contactform.js" />
     <Content Include="css\style.css" />
+    <Content Include="img\cennik_ciezarowe.jpg" />
     <Content Include="img\about-img.jpg" />
     <Content Include="img\DawidLogo.png" />
     <Content Include="img\client-1.jpg" />
     <Content Include="img\client-2.jpg" />
+    <Content Include="img\cennik_osobowe.jpg" />
     <Content Include="img\hero-bg.jpg" />
     <Content Include="img\logo.png" />
     <Content Include="img\portfolio-1.jpg" />
